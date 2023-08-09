@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagooen
 - 👀 I’m interested in rock climbing & music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on nothing the moment 
 - 📫 How to reach me ...
 
