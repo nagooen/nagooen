@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nagooen
-- 👀 I’m interested in rock climbing & music
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on nothing the moment 
-- 📫 How to reach me ...
+- 👀 I’m interested in rock climbing 
+- 🌱 I’m currently learning Rust
 
 <!---
 nagooen/nagooen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
