@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagooen
 - 👀 I’m interested in rock climbing 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Haskell
 
 <!---
 nagooen/nagooen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
